@@ -2,6 +2,10 @@
 
 Ce dépôt contient un ensemble de nœuds personnalisés pour [ComfyUI](https://github.com/comfyanonymous/ComfyUI) permettant de charger, manipuler, extraire des informations et prévisualiser des fichiers PDF directement dans vos workflows.
 
+![image](https://github.com/user-attachments/assets/aa87b5b2-751d-47d3-ad65-49199b8c0baf)
+
+![image](https://github.com/user-attachments/assets/786e038b-a0fc-4a97-b943-1e5aee9cabe2)
+
 
 ## Fonctionnalités
 
