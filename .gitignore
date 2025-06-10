@@ -1,0 +1,43 @@
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Répertoires d'environnement virtuel
+# (Si vous en créez un DANS le dossier du projet, ce qui n'est pas typique pour les custom nodes
+# mais au cas où)
+venv/
+virtualenv/
+ENV/
+env/
+.venv/
+.env/
+
+# Fichiers de configuration d'IDE et d'éditeur
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+
+# Fichiers spécifiques à l'OS
+.DS_Store
+Thumbs.db
+
+# Fichiers de logs
+*.log
+
+# Fichiers de build Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Fichiers de couverture de test
+.coverage
+coverage.xml
+
+# Fichiers temporaires ou de sauvegarde
+*~
+*.swp
+*.swo
