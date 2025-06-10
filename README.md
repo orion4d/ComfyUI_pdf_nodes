@@ -161,4 +161,16 @@ Les contributions, suggestions et rapports de bugs sont les bienvenus ! N'hésit
 
 ## Licence
 
-Ce projet est sous licence [MIT](LICENSE). *(Ajoutez un fichier LICENSE avec le texte de la licence MIT si vous le souhaitez)*
+Ce projet est sous licence [MIT](LICENSE).
+
+### 🌟 **Soutenez le projet**
+
+Si ce projet vous a été utile, pensez à lui laisser une ⭐ sur GitHub !
+
+**Fait avec ❤️ pour la communauté open source**  
+**par Orion4D**
+
+[![Offrez-moi un café](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/orion4d)
+
+</div>
+
