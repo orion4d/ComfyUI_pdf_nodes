@@ -21,9 +21,8 @@ Ce dépôt contient un ensemble de nœuds personnalisés pour [ComfyUI](https://
     Naviguez jusqu'au dossier `custom_nodes` de votre installation ComfyUI et clonez ce dépôt :
     ```bash
     cd ComfyUI/custom_nodes/
-    git clone https://github.com/VOTRE_NOM_UTILISATEUR/VOTRE_NOM_REPO.git comfyui_pdf_nodes 
+    git clone https://github.com/orion4d/ComfyUI_pdf_nodes.git
     ```
-    *(Remplacez ...)*
 
 2.  **Installer les dépendances** :
     Ces nœuds nécessitent des bibliothèques Python spécifiques. Assurez-vous qu'elles sont installées dans l'environnement Python utilisé par ComfyUI.
